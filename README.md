@@ -43,5 +43,8 @@ WordSense {
 }
 ```
 
+## Screenshot
+![Alt text](screenshot.png?raw=true "WordSense Usage")
+
 
 > **Note** If you plan to use this extension, rename `constants.template.ts` to `constants.ts` and replace the placeholder with your own OpenAI API key.
